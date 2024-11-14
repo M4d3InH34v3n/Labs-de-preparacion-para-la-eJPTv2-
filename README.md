@@ -15,3 +15,7 @@ description: Descarga las maquinas para empezar a practicar para el eJPTv2
 * [ ] Academy de TheHackerLabs [enlace](https://thehackerslabs.com/academy/)
 * [ ] FindYourStyle de DockerLabs [enlace](https://mega.nz/file/qEVWUKqR#3CheB213YMSaj-VUXSu1LOj2hlI7AwD-lQUbrtR\_9W0)
 * [ ] Armageddon de HTB [enlace](https://app.hackthebox.com/machines/Armageddon)
+
+# Mis Writeups
+
+https://mihs-organization.gitbook.io/mih/
