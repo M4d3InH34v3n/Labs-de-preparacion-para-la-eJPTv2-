@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [LABS](README.md)
+  * [Trust DockerLabs](labs/trust-dockerlabs.md)
