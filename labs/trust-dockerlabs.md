@@ -34,7 +34,7 @@ nmap -sCV -p22,80 172.18.0.2
 
 > Vemos que tenemos el puerto 80 (http) expuesto, veamos que hay en la pagina web
 
-<figure><img src="../.gitbook/assets/Trust - Pagina web.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Trust - Pagina web (1).jpg" alt=""><figcaption></figcaption></figure>
 
 > Nos encontramos con la pagina web por defecto de apache2, esto nos dice que es un servidor web apache2 recien instalado, como no hay nada en la pagina raiz veamos que hay en los demas directorios
 
